@@ -32,6 +32,6 @@ class Employee:
         print("This is good " + string)
 
 
-emp = Employee("harry", 343, "Programmer")
+emp = Employee("risita", 343, "Programmer")
 print(emp._protec)
 print(emp._Employee__private)
