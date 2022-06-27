@@ -1,6 +1,6 @@
 '''
 
-Ststic methods in python
+Static methods in python
 
 '''
 
